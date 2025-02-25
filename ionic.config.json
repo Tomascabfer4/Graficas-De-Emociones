@@ -1,0 +1,7 @@
+{
+  "name": "trabajoEmociones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
